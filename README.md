@@ -1,4 +1,4 @@
-# Extracting Amazon products data into Pandas DataFrame Using BeautifulSoup and Requests Libraries
+# Extracting Amazon products data Using Python
 
 
 
